@@ -20,10 +20,10 @@ Task Management
     Task_Management.py
     スケジュールがごちゃごちゃになりやすい就活生のための実行ファイル
 
-    Task_Management_MEMO.txt
+    data_file/Task_Management_MEMO.txt
     タスク名と締切日時のファイル
 
-    Task_Management.txt
+    data_file/Task_Management.txt
     メモ帳の中身のファイル
 ```
 
